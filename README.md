@@ -1,4 +1,4 @@
-<h2 align="center">클라우드 엔지니어, 한승재입니다. </h2>
+**<div align="center">클라우드 엔지니어, 한승재입니다.</div>**
 
 <p align="center" display="inline-block">
   <a href="https://www.credly.com/badges/2dc020e4-b5cc-4a47-8e67-d566ff553231/public_url">
