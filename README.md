@@ -1,6 +1,4 @@
-<div align="center" style="font-size:40px; font-weight:bold;">
-  클라우드 엔지니어, 한승재입니다.
-</div>
+<h2 align="center">☁️ 클라우드 엔지니어, 한승재입니다. ☁️</h2>
 
 </br>
 
