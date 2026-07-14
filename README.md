@@ -4,33 +4,14 @@
 profile = {
     "name": "SeungJae Han",
     "School": "Gwangju Software Meister High School",
-    "tech": [
-        "AWS",
-        "Linux",
-        "Docker",
-        "Kubernetes",
-        "Terraform"
-    ],
-    "awards": [
-        {
-            "year": 2026,
-            "name": "WorldSkills Korea - Gwangju Regional Skills Competition",
-            "category": "Cloud Computing",
-            "medal": "🥇 Gold Medal",
-        },
-        {
-            "year": 2025,
-            "name": "WorldSkills Korea - National Skills Competition",
-            "category": "Cloud Computing",
-            "medal": "Encouragement Award",
-        },
-        {
-            "year": 2025,
-            "name": "WorldSkills Korea - Gwangju Regional Skills Competition",
-            "category": "Cloud Computing",
-            "medal": "🥈 Silver Medal",
-        },
-    ],
+    "tech": [ "AWS", "Docker", "Kubernetes", "Terraform" ],
+    "awards": {
+        "2026": "🥇 WorldSkills Korea Regional Skills Competition (Cloud)",
+        "2025": [
+            "🏅 WorldSkills Korea National Skills Competition (Cloud)",
+            "🥈 WorldSkills Korea Regional Skills Competition (Cloud)",
+        ],
+    },
     "certificate": [
         {
             "name": "정보기기운용기능사",
