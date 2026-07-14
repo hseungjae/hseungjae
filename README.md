@@ -17,7 +17,7 @@ profile = {
         "Kubernetes",
         "Terraform"
     ],
-    "awards": [{
+    "awards": [
         {
             "year": 2026,
             "name": "WorldSkills Korea - Gwangju Regional Skills Competition",
@@ -36,5 +36,27 @@ profile = {
             "category": "Cloud Computing",
             "medal": "🥈 Silver Medal",
         },
-    }]
+    ],
+    "certificate": [
+        {
+            "name": "정보기기운용기능사",
+            "issued_at": "2026-07-10",
+            "number": "26400060404V",
+        },
+        {
+            "name": "정보처리산업기사",
+            "issued_at": "2025-12-24",
+            "number": "25251060521D",
+        },
+        {
+            "name": "프로그래밍기능사",
+            "issued_at": "2025-12-12",
+            "number": "25000060101U",
+        },
+        {
+            "name": "AWS Certified Solutions Architect – Associate",
+            "issued_at": "2025-05-07",
+        }
+    ]
+}
 ```
