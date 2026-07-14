@@ -6,33 +6,18 @@ profile = {
     "School": "Gwangju Software Meister High School",
     "tech": [ "AWS", "Docker", "Kubernetes", "Terraform" ],
     "awards": {
-        "2026": "🥇 WorldSkills Korea Regional Skills Competition (Cloud)",
+        "2026": "🥇 WorldSkills Korea Regional Skills Competition (Gold Medal)",
         "2025": [
-            "🏅 WorldSkills Korea National Skills Competition (Cloud)",
-            "🥈 WorldSkills Korea Regional Skills Competition (Cloud)",
+            "🏅 WorldSkills Korea National Skills Competition (Encouragement Award)",
+            "🥈 WorldSkills Korea Regional Skills Competition (Silver Medal)",
         ],
     },
-    "certificate": [
-        {
-            "name": "정보기기운용기능사",
-            "issued_at": "2026-07-10",
-            "number": "26400060404V",
-        },
-        {
-            "name": "정보처리산업기사",
-            "issued_at": "2025-12-24",
-            "number": "25251060521D",
-        },
-        {
-            "name": "프로그래밍기능사",
-            "issued_at": "2025-12-12",
-            "number": "25000060101U",
-        },
-        {
-            "name": "AWS Certified Solutions Architect – Associate",
-            "issued_at": "2025-05-07",
-        }
-    ]
+    "certifications": [
+        "AWS Certified Solutions Architect – Associate",
+        "정보처리산업기사",
+        "프로그래밍기능사",
+        "정보기기운용기능사",
+    ],
 }
 ```
 
