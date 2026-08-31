@@ -6,7 +6,10 @@ profile = {
     "School": "Gwangju Software Meister High School",
     "tech": [ "AWS", "Docker", "Kubernetes", "Terraform" ],
     "awards": {
-        "2026": "🥇 WorldSkills Korea Regional Skills Competition (Gold Medal)",
+        "2026": [
+            "🏅 WorldSkills Korea National Skills Competition (Excellence Medal)",
+            "🥇 WorldSkills Korea Regional Skills Competition (Gold Medal)"
+        ],
         "2025": [
             "🏅 WorldSkills Korea National Skills Competition (Encouragement Award)",
             "🥈 WorldSkills Korea Regional Skills Competition (Silver Medal)",
